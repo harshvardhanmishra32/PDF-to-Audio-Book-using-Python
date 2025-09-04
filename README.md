@@ -29,8 +29,8 @@ This simple Python tool lets you pick a PDF via a file dialog and reads it aloud
 ### 1) Clone the repository
 
 ```bash
-git clone https://github.com/<your-username>/<your-repo>.git
-cd <your-repo>
+git clone https://github.com/<harshvardhanmishra32>/<https://github.com/harshvardhanmishra32/PDF-to-Audio-Book-using-Python.git>.git
+cd <https://github.com/harshvardhanmishra32/PDF-to-Audio-Book-using-Python.git>
 ```
 
 ### 2) (Recommended) Create & activate a virtual environment
